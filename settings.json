@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "AFKuser",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
-    "try-creative": false
+    "ip": "mine-pillars.aternos.me",
+    "port": 37510,
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
