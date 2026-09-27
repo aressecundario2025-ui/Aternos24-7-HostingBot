@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mine-pillars.aternos.me",
-    "port": 37510,
+    "ip": "play.eclipseworld.pro",
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": true
   },
